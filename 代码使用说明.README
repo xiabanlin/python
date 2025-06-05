@@ -1,4 +1,0 @@
-本论文代码使用python语言，通过jupyter nodebook运行
-需要先下载库：!pip install pandas numpy matplotlib seaborn scikit-learn dask
-
-代码运行顺序：第二章，第三章，第四章
